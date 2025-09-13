@@ -356,7 +356,7 @@
                         <a class="top-heding" href="blog-details.html">Island Hotel In The Maldives Exclusive amenities Facilities.</a>
                     </div>
                 </div>
-                <div class="blog-card">
+                {{-- <div class="blog-card">
                     <figure><img src="assets/img/blog/6.jpg" alt="blog-img" class="blog-image-top"></figure>
                     <div class="lh-blog">
                         <div class="lh-blog-date">
@@ -364,7 +364,7 @@
                         </div>
                         <a class="top-heding" href="blog-details.html">Amenities Facilities to Guests Offers rooms free Exclusive.</a>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
